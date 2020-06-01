@@ -15,7 +15,7 @@ Projeto simples mais será para base de estudos.
 ## Tecnologia que será utilizadas
 
 - [Deno](https://deno.land/) no back-end
-- [ReactJS](https://pt-br.reactjs.org/) com **typescript* no front-end
+- [ReactJS](https://pt-br.reactjs.org/) com **typescript** no front-end
   - [material-ui](https://github.com/mui-org/material-ui)
   - [styled-components](https://github.com/styled-components/styled-components)
   - [react-router](https://github.com/ReactTraining/react-router)
