@@ -1,6 +1,6 @@
 {
+  "include": ["src"],
   "compilerOptions": {
-    "types": ["."]
-  },
-  "include": ["src"]
+    "plugins": [{ "name": "typescript-deno-plugin" }]
+  }
 }

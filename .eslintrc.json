@@ -22,6 +22,11 @@
   "plugins": ["@typescript-eslint", "prettier"],
   "rules": {
     "prettier/prettier": "error",
-    "no-param-reassign": "off"
+    "no-param-reassign": "off",
+    "import/no-unresolved": "error",
+    "import/extensions": ["error", "always", { "ignorePackages": true }]
+  },
+  "settings": {
+    "import/resolver": "eslint-import-resolver-deno"
   }
 }
