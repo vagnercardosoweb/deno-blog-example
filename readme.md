@@ -22,6 +22,10 @@ Projeto simples mais será para base de estudos.
 
 Um blog precisa de `SEO` mais e existe tecnologias como [NextJS](https://github.com/vercel/next.js) para trabalhar no lado do servidor, mais no estudos não iremos utilizar.
 
+## Como rodar os projetos
+
+Em breve...
+
 ## Licença
 
 MIT @ [vagnercardosoweb](https://github.com/vagnercardosoweb)
